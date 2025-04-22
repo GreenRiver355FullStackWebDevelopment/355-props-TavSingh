@@ -15,3 +15,9 @@ li {
   border: 1px solid;
   border-radius: 8px;
 }
+
+/* Added styling to img to make it smaller*/
+img {
+  width: 300px;
+  border-radius: 8px;
+}
